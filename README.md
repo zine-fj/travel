@@ -7,6 +7,8 @@
 2. 城市列表页
 3. 详情页
 
+## 项目实现过程可看作者掘金 [去哪儿网复盘](https://juejin.cn/post/6983591357184999431/)
+
 ## Project setup
 ```
 npm install
